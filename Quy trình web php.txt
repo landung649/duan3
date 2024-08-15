@@ -1,0 +1,9 @@
+step 1: html,css, convert PSD to html/css
+------------------------------------------
+step 2: js, jQuery, add plugin JS jQuery
+------------------------------------------
+step 3: php basis, bootstrap, website responsive
+------------------------------------------
+step 4: PHP Advanced(OOP, MVC); sql, web CRUD-SSP-Ajax
+------------------------------------------
+step 5: web php
